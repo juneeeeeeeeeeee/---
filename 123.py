@@ -139,5 +139,4 @@ while True:
     t.goto(0, 0)
     t.write("Draw", False, "center", ("", 20))
   sleep(1.5)
-  print("u succ")
   t.clear()
